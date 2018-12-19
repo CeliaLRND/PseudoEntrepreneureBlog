@@ -1,0 +1,61 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pseudo Entrepreneure",
+    "description": "",
+    "home_page_url": "https://celialrnd.github.io/PseudoEntrepreneureBlog",
+    "feed_url": "https://celialrnd.github.io/PseudoEntrepreneureBlog/feed.json",
+    "user_comment": "",
+    "icon": "https://celialrnd.github.io/PseudoEntrepreneureBlog/media/website/2.png",
+    "author": {
+        "name": "Célia"
+    },
+    "items": [
+        {
+            "id": "https://celialrnd.github.io/PseudoEntrepreneureBlog/mes-pseudo-projet.html",
+            "url": "https://celialrnd.github.io/PseudoEntrepreneureBlog/mes-pseudo-projet.html",
+            "title": "Mes pseudo-projets",
+            "summary": "Voici la liste de tous les pseudo-projets que j'ai commencés. RDV dans les articles du blog pour&hellip;",
+            "content_html": "<p><span id=\"p260\">Voici la liste de tous les pseudo-projets que j'ai commenc</span>és.<span id=\"p261\"> <span id=\"264\" class=\"s-rg-t\">RDV</span> dans les articles du blog pour plus d'info.</span></p>\n<ul>\n<li><strong>Newsletter</strong><br><span id=\"p262\"></span></li>\n</ul>\n<span id=\"p262\">Je passe plusieurs heures par jour sur <span id=\"265\" class=\"s-rg-t\">internet</span> pour le fun, la motivation, l'inspiration.</span><span id=\"p263\"> Je partage mes trouvailles dans une newsletter hebdomadaire.</span><span id=\"p266\"> Un nouveau numéro tous les lundis. Abonnes toi dans la colonne a droite.</span><br><br>\n<ul>\n<li><strong><span id=\"p267\">Chaine YouTube</span></strong></li>\n</ul>\n<span id=\"p268\">Il y a quelques mois, j'ai créé ma chaîne, la bannière, le logo, j'ai tourné et monté 2 vidéos.</span><span id=\"p269\"> Résultat final pas à mon goût, je n'ai posté aucune des vidéos.</span><span id=\"p270\"> Depuis, j'ai rangé <span id=\"280\" class=\"s-rg-t\">appareil photo</span> et micro.</span><span id=\"p289\"> Je vais plutôt me consacrer à ce blog, je me sens plus à l'aise à l'écrit.</span><br><br>\n<ul>\n<li><strong><span id=\"p272\"><span id=\"282\" class=\"s-rg-t\">Freelancing</span></span></strong></li>\n</ul>\n<span id=\"p273\">Je compte sur mon réseau <span id=\"283\" class=\"s-rg-t\">Linkedin</span> pour trouver des clients dans la jungle des développeurs web freelance.</span><span id=\"p288\"> Je suis persuadée qu'un site web pro n'est pas si utile que ca, mais je vais quand même en faire un, si ca peut rassurer des clients potentiels.</span><br><br>\n<ul>\n<li><strong><span id=\"p275\"><span id=\"286\" class=\"s-rg-t\">E-Commerce</span></span></strong></li>\n</ul>\n<span id=\"p278\">J'ai validé mon id<span id=\"287\">ée</span> <span id=\"p276\">(</span><span id=\"p277\">article à ce sujet bientôt en ligne)</span>.</span><span id=\"p279\"> Je cherche en ce moment un fournisseur qui saura fabriquer mon produit de manière éthique et en respectant les normes européennes en vigueur.</span>",
+            "image": "https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/4/test2.jpg",
+            "author": {
+                "name": "Célia"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-19T13:54:52+08:00",
+            "date_modified": "2018-12-19T14:26:23+08:00"
+        },
+        {
+            "id": "https://celialrnd.github.io/PseudoEntrepreneureBlog/creer-un-blog-sous-forme-de-site-statique.html",
+            "url": "https://celialrnd.github.io/PseudoEntrepreneureBlog/creer-un-blog-sous-forme-de-site-statique.html",
+            "title": "Mais c&#x27;est quoi ce site?",
+            "summary": "Ma pseudo-aventure entrepreneurialeIl y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. Aujourd'hui&hellip;",
+            "content_html": "<h2>Ma pseudo-aventure entrepreneuriale</h2>\n<p><span id=\"p58\">Il y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. </span><span id=\"p59\"><span id=\"60\">Aujourd'hui je</span> suis toujours salariée et mes petites tentatives me permettent à peine de payer les croquettes de mon chien donc on va parler de pseudo-aventure pour le moment.</span> 🤷  </p>\n<h2>L'objectif?</h2>\n<p><span style=\"font-size: inherit;\"><span id=\"p63\">Mon objectif est de gagner ma vie sur <span id=\"66\">internet</span> en travaillant sur des projets qui me plaisent.</span><span id=\"p64\"> Comme beaucoup, je n'ai aucune expérience entrepreunariale, mais il parait qu'avec de la pub Facebook, un bot I<span id=\"70\">nstagram</span> et certaines techniques <span id=\"71\">secretes</span> de marketing <span id=\"72\">digital on</span> devient <span id=\"73\">milionnaire</span> en une semaine? Non? 🙄 </span></span></p>\n<p><span style=\"font-size: inherit;\"><span id=\"p77\">Souhaite <span id=\"78\">moi bon</span> courage, je vais en avoir besoin !</span>😅</span></p>\n<h2>Bienvenue!</h2>\n<p><span id=\"p96\">En attendant, si tu veux savoir comment tout ca évolue, ce blog te permettra de suivre mes péripéties.</span><span id=\"p97\"> Une question ?</span><span id=\"p98\"> Une remarque ?</span><span id=\"p101\"> Contacte-moi ici, ce sera la preuve qu'au moins une personne m'a lu et je te répondrai avec grand plaisir.</span> 😀 </p>",
+            "image": "https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/1/what.jpg",
+            "author": {
+                "name": "Célia"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-19T13:54:30+08:00",
+            "date_modified": "2018-12-19T14:32:32+08:00"
+        },
+        {
+            "id": "https://celialrnd.github.io/PseudoEntrepreneureBlog/qui-suis-je.html",
+            "url": "https://celialrnd.github.io/PseudoEntrepreneureBlog/qui-suis-je.html",
+            "title": "Qui suis-je?",
+            "summary": "Pendant longtemps j'ai suivi le plan: bac, études, stage. Je rêvais de rejoindre le département informatique d'un&hellip;",
+            "content_html": "<p><span id=\"p0\"><span id=\"10\">Pendant longtemps j</span>'ai suivi le plan:</span><span id=\"p35\"> bac, études, stage.</span><span id=\"p36\"> Je rêvais de rejoindre le département informatique d'un grand groupe comme la majorité de ma promo.</span><span id=\"p37\"> À peine diplômée, j'étais déjà embauchée en CDI, tout se passait comme prévu.</span></p>\n<h2>Casser la routine</h2>\n<p><span id=\"p5\">Après trois ans de <span id=\"22\" class=\"s-rg-t\">metro-boulot-dodo</span> entre Paris et ma banlieue, j'ai pris un chemin moins balisé :</span><span id=\"p39\"> démission, départ pour Taiwan, apprentissage du chinois, plusieurs mois sans boulot <span id=\"p38\">(gros stress!)</span>.</span><span id=\"p40\"> Je m'éloigne du plan.</span></p>\n<h2>Retour vers le <span id=\"31\">d</span>évelopement web</h2>\n<p><span id=\"p8\">La solution fut ma <span id=\"30\">r</span></span>éorientation vers le <span id=\"31\">d</span>évelopement web. Pour un poste de <span id=\"31\">d</span>évelopeuse la <span id=\"32\">maitrise</span> du mandarin est beaucoup moins importante que pour les postes de chef de projet que je convoitais jusque-là.</p>\n<h2>What's next?</h2>\n<p><span id=\"p41\">Aujourd'hui, je suis salariée d'une petite entreprise locale et <span id=\"44\">je</span> rêve de devenir indépendante, notamment géographiquement pour pouvoir travailler de n'importe où.</span></p>",
+            "image": "https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/3/whoami2.jpg",
+            "author": {
+                "name": "Célia"
+            },
+            "tags": [
+                   "Taiwan",
+                   "Développement Web"
+            ],
+            "date_published": "2018-12-19T13:54:03+08:00",
+            "date_modified": "2018-12-19T15:52:05+08:00"
+        }
+    ]
+}

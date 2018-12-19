@@ -1,2 +1,0 @@
-# PseudoEntrepreneureBlog
-Blog Pseudo Entrepreneure

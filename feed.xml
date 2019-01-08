@@ -3,7 +3,7 @@
     <title>Pseudo Entrepreneure</title>
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/feed.xml" rel="self" />
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog" />
-    <updated>2019-01-08T13:08:52+08:00</updated>
+    <updated>2019-01-08T13:41:53+08:00</updated>
     <author>
         <name>Célia</name>
     </author>
@@ -67,10 +67,10 @@
         <author>
             <name>Célia</name>
         </author>
-        <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/creer-un-blog-sous-forme-de-site-statique.html"/>
-        <id>https://celialrnd.github.io/PseudoEntrepreneureBlog/creer-un-blog-sous-forme-de-site-statique.html</id>
+        <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/pseudo-entrepreneur.html"/>
+        <id>https://celialrnd.github.io/PseudoEntrepreneureBlog/pseudo-entrepreneur.html</id>
 
-        <updated>2019-01-08T13:07:20+08:00</updated>
+        <updated>2019-01-08T13:10:51+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/1/what.jpg" alt="" />
@@ -87,36 +87,6 @@
 <p><span style="font-size: inherit;"><span id="p77">Souhaite <span id="78">moi bon</span> courage, je vais en avoir besoin !</span>😅</span></p>
 <h2>Bienvenue!</h2>
 <p><span id="p96">En attendant, si tu veux savoir comment tout ca évolue, ce blog te permettra de suivre mes péripéties.</span><span id="p97"> Une question ?</span><span id="p98"> Une remarque ?</span><span id="p101"> Contacte-moi ici, ce sera la preuve qu'au moins une personne m'a lu et je te répondrai avec grand plaisir.</span> 😀 </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Qui suis-je?</title>
-        <author>
-            <name>Célia</name>
-        </author>
-        <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/qui-suis-je.html"/>
-        <id>https://celialrnd.github.io/PseudoEntrepreneureBlog/qui-suis-je.html</id>
-            <category term="Taiwan"/>
-            <category term="Développement Web"/>
-
-        <updated>2019-01-08T11:18:16+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/3/whoami2.jpg" alt="" />
-                    Pendant longtemps j'ai suivi le plan: bac, études, stage. Je rêvais de rejoindre le département informatique d'un&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/3/whoami2.jpg" alt="" />
-                <p><span id="p0"><span id="10">Pendant longtemps j</span>'ai suivi le plan:</span><span id="p35"> bac, études, stage.</span><span id="p36"> Je rêvais de rejoindre le département informatique d'un grand groupe comme la majorité de ma promo.</span><span id="p37"> À peine diplômée, j'étais déjà embauchée en CDI, tout se passait comme prévu.</span></p>
-<h2>Casser la routine</h2>
-<p><span id="p5">Après trois ans de <span id="22" class="s-rg-t">metro-boulot-dodo</span> entre Paris et ma banlieue, j'ai pris un chemin moins balisé :</span><span id="p39"> démission, départ pour Taiwan, apprentissage du chinois, plusieurs mois sans boulot <span id="p38">(gros stress! 😭)</span>.</span></p>
-<h2>Retour vers le <span id="31">d</span>évelopement web</h2>
-<p><span id="p8">La solution fut ma <span id="30">r</span></span>éorientation vers le <span id="31">d</span>évelopement web. Pour un poste de <span id="31">d</span>évelopeuse la <span id="32">maitrise</span> du mandarin est beaucoup moins importante que pour les postes de chef de projet que je convoitais jusque-là.</p>
-<h2>What's next?</h2>
-<p><span id="p41">Aujourd'hui, je suis salariée d'une petite entreprise locale sur des projets web et <span id="44">je</span> rêve de devenir indépendante, notamment géographiquement pour pouvoir travailler de n'importe où.</span></p>
             ]]>
         </content>
     </entry>

@@ -3,7 +3,7 @@
     <title>Pseudo Entrepreneure</title>
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/feed.xml" rel="self" />
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog" />
-    <updated>2019-01-08T14:23:39+08:00</updated>
+    <updated>2019-01-08T14:41:35+08:00</updated>
     <author>
         <name>Célia</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Site statique"/>
             <category term="Développement Web"/>
 
-        <updated>2019-01-08T14:05:14+08:00</updated>
+        <updated>2019-01-08T14:33:50+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/12/publii.jpg" alt="Un blog gratuit sans pub?" />
@@ -52,7 +52,8 @@
 <li>Confort et facilité d'utilisation grâce à une superbe interface</li>
 <li>Hébergement gratuit via <a href="https://www.netlify.com/" title="Netlify" target="_blank" rel="noopener noreferrer">Netlify</a> ou <a title="https://pages.github.com/"></a><a href="#INTERNAL_LINK#/post/NaN" title="Github" target="_blank" rel="noopener noreferrer">Github</a> (🔒 <strong>certificat SSL compris</strong>)</li>
 <li>Site <strong>ultra rapide</strong></li>
-<li>Commentaire via <a href="https://help.disqus.com/" title="Aide Disqus" target="_blank" rel="noopener noreferrer">Disqus</a> bien gerés</li>
+<li>Plein d'options pour le SEO</li>
+<li>Commentaires via <a href="https://help.disqus.com/" title="Aide Disqus" target="_blank" rel="noopener noreferrer">Disqus</a></li>
 <li>Formulaire de contact via <a href="https://formspree.io/" target="_blank" rel="noopener noreferrer" title="Formspree">Formspree</a></li>
 <li>Plusieurs thèmes disponibles + Personnalisation via customisation du CSS</li>
 </ul>

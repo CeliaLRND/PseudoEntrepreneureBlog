@@ -3,7 +3,7 @@
     <title>Pseudo Entrepreneure</title>
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/feed.xml" rel="self" />
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog" />
-    <updated>2019-01-08T13:53:58+08:00</updated>
+    <updated>2019-01-08T14:10:22+08:00</updated>
     <author>
         <name>Célia</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/un-blog-gratuit-sans-pub.html"/>
         <id>https://celialrnd.github.io/PseudoEntrepreneureBlog/un-blog-gratuit-sans-pub.html</id>
+            <category term="Site statique"/>
             <category term="Développement Web"/>
 
-        <updated>2019-01-08T12:32:49+08:00</updated>
+        <updated>2019-01-08T14:05:14+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/12/publii.jpg" alt="Un blog gratuit sans pub?" />
@@ -70,18 +71,17 @@
         <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/pseudo-entrepreneur.html"/>
         <id>https://celialrnd.github.io/PseudoEntrepreneureBlog/pseudo-entrepreneur.html</id>
 
-        <updated>2019-01-08T13:10:51+08:00</updated>
+        <updated>2019-01-08T13:57:07+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/1/what.jpg" alt="" />
-                    Ma pseudo-aventure entrepreneurialeIl y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. Aujourd'hui&hellip;
+                    Il y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. Aujourd'hui je suis toujours&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/1/what.jpg" alt="" />
-                <h2>Ma pseudo-aventure entrepreneuriale</h2>
-<p><span id="p58">Il y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. </span><span id="p59"><span id="60">Aujourd'hui je</span> suis toujours salariée et mes petites tentatives me permettent à peine de payer les croquettes de mon chien donc on va parler de pseudo-aventure pour le moment.</span> 🤷  </p>
+                <p><span id="p58">Il y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. </span><span id="p59"><span id="60">Aujourd'hui je</span> suis toujours salariée et mes petites tentatives me permettent à peine de payer les croquettes de mon chien donc on va parler de pseudo-aventure pour le moment.</span> 🤷  </p>
 <h2>L'objectif?</h2>
 <p><span style="font-size: inherit;"><span id="p63">Mon objectif est de gagner ma vie sur <span id="66">internet</span> en travaillant sur des projets qui me plaisent.</span><span id="p64"> Comme beaucoup, je n'ai aucune expérience entrepreunariale, mais il parait qu'avec de la pub Facebook, un bot I<span id="70">nstagram</span> et certaines techniques <span id="71">secretes</span> de marketing <span id="72">digital on</span> devient <span id="73">milionnaire</span> en une semaine? Non? 🙄 </span></span></p>
 <p><span style="font-size: inherit;"><span id="p77">Souhaite <span id="78">moi bon</span> courage, je vais en avoir besoin !</span>😅</span></p>

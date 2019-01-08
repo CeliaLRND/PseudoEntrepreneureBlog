@@ -21,17 +21,18 @@
                 "name": "Célia"
             },
             "tags": [
+                   "Site statique",
                    "Développement Web"
             ],
             "date_published": "2019-01-08T12:32:49+08:00",
-            "date_modified": "2019-01-08T12:32:49+08:00"
+            "date_modified": "2019-01-08T14:05:14+08:00"
         },
         {
             "id": "https://celialrnd.github.io/PseudoEntrepreneureBlog/pseudo-entrepreneur.html",
             "url": "https://celialrnd.github.io/PseudoEntrepreneureBlog/pseudo-entrepreneur.html",
             "title": "Pseudo-entrepreneure?",
-            "summary": "Ma pseudo-aventure entrepreneurialeIl y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. Aujourd'hui&hellip;",
-            "content_html": "<h2>Ma pseudo-aventure entrepreneuriale</h2>\n<p><span id=\"p58\">Il y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. </span><span id=\"p59\"><span id=\"60\">Aujourd'hui je</span> suis toujours salariée et mes petites tentatives me permettent à peine de payer les croquettes de mon chien donc on va parler de pseudo-aventure pour le moment.</span> 🤷  </p>\n<h2>L'objectif?</h2>\n<p><span style=\"font-size: inherit;\"><span id=\"p63\">Mon objectif est de gagner ma vie sur <span id=\"66\">internet</span> en travaillant sur des projets qui me plaisent.</span><span id=\"p64\"> Comme beaucoup, je n'ai aucune expérience entrepreunariale, mais il parait qu'avec de la pub Facebook, un bot I<span id=\"70\">nstagram</span> et certaines techniques <span id=\"71\">secretes</span> de marketing <span id=\"72\">digital on</span> devient <span id=\"73\">milionnaire</span> en une semaine? Non? 🙄 </span></span></p>\n<p><span style=\"font-size: inherit;\"><span id=\"p77\">Souhaite <span id=\"78\">moi bon</span> courage, je vais en avoir besoin !</span>😅</span></p>\n<h2>Bienvenue!</h2>\n<p><span id=\"p96\">En attendant, si tu veux savoir comment tout ca évolue, ce blog te permettra de suivre mes péripéties.</span><span id=\"p97\"> Une question ?</span><span id=\"p98\"> Une remarque ?</span><span id=\"p101\"> Contacte-moi ici, ce sera la preuve qu'au moins une personne m'a lu et je te répondrai avec grand plaisir.</span> 😀 </p>",
+            "summary": "Il y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. Aujourd'hui je suis toujours&hellip;",
+            "content_html": "<p><span id=\"p58\">Il y a quelques mois, j'ai décidé de me lancer dans l'aventure entrepreneuriale. </span><span id=\"p59\"><span id=\"60\">Aujourd'hui je</span> suis toujours salariée et mes petites tentatives me permettent à peine de payer les croquettes de mon chien donc on va parler de pseudo-aventure pour le moment.</span> 🤷  </p>\n<h2>L'objectif?</h2>\n<p><span style=\"font-size: inherit;\"><span id=\"p63\">Mon objectif est de gagner ma vie sur <span id=\"66\">internet</span> en travaillant sur des projets qui me plaisent.</span><span id=\"p64\"> Comme beaucoup, je n'ai aucune expérience entrepreunariale, mais il parait qu'avec de la pub Facebook, un bot I<span id=\"70\">nstagram</span> et certaines techniques <span id=\"71\">secretes</span> de marketing <span id=\"72\">digital on</span> devient <span id=\"73\">milionnaire</span> en une semaine? Non? 🙄 </span></span></p>\n<p><span style=\"font-size: inherit;\"><span id=\"p77\">Souhaite <span id=\"78\">moi bon</span> courage, je vais en avoir besoin !</span>😅</span></p>\n<h2>Bienvenue!</h2>\n<p><span id=\"p96\">En attendant, si tu veux savoir comment tout ca évolue, ce blog te permettra de suivre mes péripéties.</span><span id=\"p97\"> Une question ?</span><span id=\"p98\"> Une remarque ?</span><span id=\"p101\"> Contacte-moi ici, ce sera la preuve qu'au moins une personne m'a lu et je te répondrai avec grand plaisir.</span> 😀 </p>",
             "image": "https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/1/what.jpg",
             "author": {
                 "name": "Célia"
@@ -39,7 +40,7 @@
             "tags": [
             ],
             "date_published": "2018-12-19T13:54:30+08:00",
-            "date_modified": "2019-01-08T13:10:51+08:00"
+            "date_modified": "2019-01-08T13:57:07+08:00"
         }
     ]
 }

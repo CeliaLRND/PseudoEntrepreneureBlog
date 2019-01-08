@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://celialrnd.github.io/PseudoEntrepreneureBlog/la-jungle-des-developpeurs-web-freelance.html",
+            "url": "https://celialrnd.github.io/PseudoEntrepreneureBlog/la-jungle-des-developpeurs-web-freelance.html",
+            "title": "La Jungle des développeurs web freelance",
+            "summary": "En quelques mois passés sur le marché, je me rends compte qu'en 2019 \"développeur web&hellip;",
+            "content_html": "<p>En quelques mois passés sur le marché, je me rends compte qu'en 2019 \"développeur web freelance\" est un mot <strong>fourre-tout</strong>. Des personnes qui installent des sites (moches) sur wordpress sans écrire une ligne de code se prétendent développeurs web. </p>\n<p>J'ai plusieurs années d'expérience en IT et dans le développement web, je suis capable d'automatiser de petits process, d'ecrire un cahier de test, de faire la gestion de base de mon serveur depuis un terminal, d'optimiser le SEO, d'améliorer l'esthétique et l'ergonomie de n'importe quel site avec un peu de CSS/HTML/JS. <strong>Je ne veux pas être mise dans le même panier</strong> qu'eux 😢</p>\n<p><strong>Ma problématique</strong> actuelle est de <strong>me différencier</strong> en prouvant que je peux apporter une réelle plus-value à mes clients.</p>\n<p>Pour me différencier, j'ai pensé à <strong>détailler mon activité</strong> et mes compétences. Mais est-ce que ça parle à mes potentiels clients? Je risque de rentrer dans un vocabulaire trop technique connu uniquement des personnes du milieu.</p>\n<p>Pas de conclusion à ce post puisque je n'ai pas encore la réponse à mes questions.</p>\n<p>Et toi? Comment tu t'adresses à tes potentiels clients?</p>",
+            "image": "https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/2/js.jpg",
+            "author": {
+                "name": "Célia"
+            },
+            "tags": [
+                   "Vie de freelance",
+                   "Développement Web"
+            ],
+            "date_published": "2019-01-08T18:31:28+08:00",
+            "date_modified": "2019-01-08T18:32:27+08:00"
+        },
+        {
             "id": "https://celialrnd.github.io/PseudoEntrepreneureBlog/un-blog-gratuit-sans-pub.html",
             "url": "https://celialrnd.github.io/PseudoEntrepreneureBlog/un-blog-gratuit-sans-pub.html",
             "title": "Un blog gratuit sans pub?",

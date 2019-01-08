@@ -3,12 +3,41 @@
     <title>Pseudo Entrepreneure</title>
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/feed.xml" rel="self" />
     <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog" />
-    <updated>2019-01-08T17:31:23+08:00</updated>
+    <updated>2019-01-08T18:32:59+08:00</updated>
     <author>
         <name>Célia</name>
     </author>
     <id>https://celialrnd.github.io/PseudoEntrepreneureBlog</id>
 
+    <entry>
+        <title>La Jungle des développeurs web freelance</title>
+        <author>
+            <name>Célia</name>
+        </author>
+        <link href="https://celialrnd.github.io/PseudoEntrepreneureBlog/la-jungle-des-developpeurs-web-freelance.html"/>
+        <id>https://celialrnd.github.io/PseudoEntrepreneureBlog/la-jungle-des-developpeurs-web-freelance.html</id>
+            <category term="Vie de freelance"/>
+            <category term="Développement Web"/>
+
+        <updated>2019-01-08T18:32:27+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/2/js.jpg" alt="La Jungle des développeurs web freelance" />
+                    En quelques mois passés sur le marché, je me rends compte qu'en 2019 "développeur web&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://celialrnd.github.io/PseudoEntrepreneureBlog/media/posts/2/js.jpg" alt="La Jungle des développeurs web freelance" />
+                <p>En quelques mois passés sur le marché, je me rends compte qu'en 2019 "développeur web freelance" est un mot <strong>fourre-tout</strong>. Des personnes qui installent des sites (moches) sur wordpress sans écrire une ligne de code se prétendent développeurs web. </p>
+<p>J'ai plusieurs années d'expérience en IT et dans le développement web, je suis capable d'automatiser de petits process, d'ecrire un cahier de test, de faire la gestion de base de mon serveur depuis un terminal, d'optimiser le SEO, d'améliorer l'esthétique et l'ergonomie de n'importe quel site avec un peu de CSS/HTML/JS. <strong>Je ne veux pas être mise dans le même panier</strong> qu'eux 😢</p>
+<p><strong>Ma problématique</strong> actuelle est de <strong>me différencier</strong> en prouvant que je peux apporter une réelle plus-value à mes clients.</p>
+<p>Pour me différencier, j'ai pensé à <strong>détailler mon activité</strong> et mes compétences. Mais est-ce que ça parle à mes potentiels clients? Je risque de rentrer dans un vocabulaire trop technique connu uniquement des personnes du milieu.</p>
+<p>Pas de conclusion à ce post puisque je n'ai pas encore la réponse à mes questions.</p>
+<p>Et toi? Comment tu t'adresses à tes potentiels clients?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Un blog gratuit sans pub?</title>
         <author>
